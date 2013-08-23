@@ -166,7 +166,7 @@ Options
 
    .. example::
 
-      Given a collection named ``test`` in the database ``records``
+      Given a collection named ``records`` in the database ``test`` 
       with the following documents:
 
       .. code:: json
